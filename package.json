@@ -6,7 +6,8 @@
   "scripts": {
     "lesson-01": "ts-node 01/solution.ts",
     "lesson-02": "ts-node 02/solution.ts",
-    "lesson-03": "ts-node 03/solution.ts"
+    "lesson-03": "ts-node 03/solution.ts",
+    "lesson-04": "ts-node 04/solution.ts"
   },
   "author": "",
   "license": "ISC",
